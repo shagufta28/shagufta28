@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full Stack developer with expertise in UI UX designing.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Social Media App](Yet to be deployed)<br><br>🌱 I’m currently learning NodeJS , NextJS , DSA<br><br>👯 I’m looking to collaborate on Full stack Projects<br><br>💬 Ask me about react , figma , javascript<br><br>📫 How to reach me saifishagufta82@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1xTPTRRTwk3-t2SXWMsyXrN5QSCev2wkI/view?usp=drive_link<br><br>⚡ Fun fact I am a Mandala Artist Too😉
+🔭 I’m currently working on [AI Story Generator App](Yet to be deployed)<br><br>🌱 I’m currently learning NodeJS , NextJS , DSA<br><br>👯 I’m looking to collaborate on Full stack Projects<br><br>💬 Ask me about react , figma , javascript<br><br>📫 How to reach me saifishagufta82@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1xTPTRRTwk3-t2SXWMsyXrN5QSCev2wkI/view?usp=drive_link<br><br>⚡ Fun fact I am a Mandala Artist Too😉
 
 
 ## 🌐 Socials:
